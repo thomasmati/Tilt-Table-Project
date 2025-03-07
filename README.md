@@ -5,6 +5,7 @@ Tilt Table Project completed in EE 4583 (Microcomputers System II) at UTSA
 - Microcontroller - KL25Z Freedom Board
 - Touch Panel - 4 Wire Resistive Touch Panel, supported by U-Joint
 - Servos - 2 Servo Motors, Controlling the X and Y Directions
+- Buck Converter - Utilized a Buck Converter to Set the Servo Voltage to 6.0V
 
 # Software
 - Code written in MCUXpresso
