@@ -14,5 +14,4 @@ Tilt Table Project completed in EE 4583 (Microcomputers System II) at UTSA
 - Controlled Servo Motors with PWM, with Shortened Period of 10ms for Quicker Response time
 
 # Demonstration
-[https://img.youtube.com/vi/2jFaqpooxuo/maxresdefault.jpg
-](https://www.youtube.com/shorts/2jFaqpooxuo)
+https://www.youtube.com/shorts/2jFaqpooxuo
